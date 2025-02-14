@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 William Nascimento
 
-**`Desenvolvedor FullStack Junior`**
+**`Desenvolvedor Front-End Junior`**
 
 Meu nome é William, tenho 21 anos e sou natural do Rio de Janeiro. Desde muito jovem, a tecnologia sempre foi minha grande paixão. Atualmente, estou cursando ... na ... onde continuo a expandir meus conhecimentos e habilidades.
 
@@ -13,7 +13,7 @@ Eu acredito no poder da tecnologia para transformar a vida das pessoas e estou e
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8TqqrG-aQjxyuGGHcl6Bcw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@Shadow77">
+    <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
@@ -102,7 +102,6 @@ Eu acredito no poder da tecnologia para transformar a vida das pessoas e estou e
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=William77OFC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
