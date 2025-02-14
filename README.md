@@ -1,6 +1,3 @@
-![](https://komarev.com/ghpvc/?username=DiasEllen26&color=006bed)
-
-
 ## 🍕 Olá, meu nome é <strong>William!</strong>
 - 🏬 &nbsp; Desenvolvedor Front-end & UX/UI Design
 - 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
